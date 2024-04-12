@@ -1,4 +1,4 @@
-# -1
+# Days since last drama in monero community group on matrix or irc: -1
 
 CAN WE 
 
